@@ -1,0 +1,6 @@
+D:\Brijesh\Dot Net\TempWebApplication1\TempWebApplication1\bin\TempWebApplication1.dll.config
+D:\Brijesh\Dot Net\TempWebApplication1\TempWebApplication1\bin\TempWebApplication1.dll
+D:\Brijesh\Dot Net\TempWebApplication1\TempWebApplication1\bin\TempWebApplication1.pdb
+D:\Brijesh\Dot Net\TempWebApplication1\TempWebApplication1\obj\Debug\TempWebApplication1.csprojResolveAssemblyReference.cache
+D:\Brijesh\Dot Net\TempWebApplication1\TempWebApplication1\obj\Debug\TempWebApplication1.dll
+D:\Brijesh\Dot Net\TempWebApplication1\TempWebApplication1\obj\Debug\TempWebApplication1.pdb
